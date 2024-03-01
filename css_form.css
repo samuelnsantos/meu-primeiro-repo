@@ -1,0 +1,32 @@
+.bodyprin {
+    margin: 0%
+}
+
+.divprin {
+    width: 500px;
+    height: fit-content;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: aliceblue;
+    margin: 10px;
+
+}
+
+.divSec {
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+.imgDiv {
+    width: 70%;
+    height: 70%;
+    padding: 6px;
+
+}
+
+.italico{
+font-weight: bold; color: darkred;
+font-style: italic;
+
+}
